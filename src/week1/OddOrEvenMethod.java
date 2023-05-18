@@ -1,3 +1,5 @@
+package week1;
+
 public class OddOrEvenMethod {
     public static void main(String[] args) {
         System.out.println(OddOrEven(1));

@@ -1,3 +1,5 @@
+package week1;
+
 public class FinraMethod {
     public static void main(String[] args) {
         FinraMethod.finRa();
